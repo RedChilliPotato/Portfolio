@@ -1,0 +1,30 @@
+Sudhanshu Ranjan
+Experienced Web Developer & Designer | MCA Graduate
+
+Executive Summary
+I am a results-driven Web Developer and Designer with a profound interest in architecting and implementing functional, scalable, and visually refined digital platforms. My professional competency spans multiple full-stack technologies, refined through the development of robust, self-driven projects. I specialize in translating conceptual ideas into optimized, responsive, and intuitive web solutions, committed to the continuous mastery of evolving web methodologies, frameworks, and core design principles.
+
+Technical Proficiencies
+Full-Stack & Backend Systems: Python, Django, FastAPI, Rest API, JWT, PostgreSQL, MongoDB, SQLite3, Pyramid
+Artificial Intelligence & Data Systems: TensorFlow, Keras
+Frontend Technologies: React.js, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, SCSS, Bootstrap
+Developer Tools & Platforms: Git, GitHub, PyCharm, Figma
+
+Academic Background
+Master of Computer Applications (MCA) – BBD University Lucknow (78%) | 2022 - 2024
+
+Core Projects
+1. Daily Chores & Security Portal: Marketplace for Daily Chores and Security Services. Architected a platform optimizing resource allocation, facilitating efficient service acquisition and management for commercial entities and individuals. Implemented secure workflows for hiring and payment processing.
+2. School Management System: Comprehensive Administrative Platform. Engineered a centralized system to streamline operational logistics across an educational institution. Features include comprehensive financial oversight (Salary & Fee management), dynamic scheduling, class structure optimization, and centralized administrative control.
+3. World Wide Land: Unified Real Estate Information System. Constructed high-performance interfaces for real estate property listing and acquisition. Integrated features allowing for detailed property inquiries, scheduling, and direct offer submission, enhancing transparency for both property owners and investors.
+
+Awards & Professional Development
+- Award recipient in the BBD Software Exhibition
+- Industrial Training – SoftPro India
+- Django Project Training – Precursor
+
+Links & Contact
+Formal Site: sudhanshuranjan.vercel.app
+GitHub: github.com/sudhanshusrivastav
+LinkedIn: in.linkedin.com/in/sudhanshu3107
+Direct Contact: +91-9670090088 | sudhanshuranjan3107@gmail.com
